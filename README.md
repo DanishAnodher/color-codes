@@ -1,5 +1,7 @@
 # color-codes
 
+[![Downloads](https://pepy.tech/badge/color-codes)](https://pepy.tech/project/color-codes)
+
 color-codes is a python package allowing easy access and use of RGB and HEX values of various colors.
 
 ## Installation
